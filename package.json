@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@nodef/ifct2017": "npm:@jsr/nodef__ifct2017@^2.1.2"
+  }
+}

@@ -1,0 +1,23 @@
+Commodity_Name,Sub_Category,Moisture_Content_Min_Percent,Moisture_Content_Max_Percent,Fat_Oil_Content_Min_Percent,Fat_Oil_Content_Max_Percent,pH_Min,pH_Max,Respiration_Rate,Food_Category,Oxygen_Sensitivity,Moisture_Sensitivity,Shelf_Life_Requirement,Source
+Potato Chips,Chips & Wafers,0.67,3.78,27.91,40.16,5.96,6.29,2.33 mL CO2/h (closed storage reference),Fried low-moisture snack,High,Very High,4.5-12 months,IPB Journal
+Fried Potato Chips,Chips & Wafers,1.1,1.5,30.33,32.36,5.96,6.29,2.33 mL CO2/h,Fried low-moisture snack,High,Very High,4.5-12 months,ScienceDirect
+Baked Potato Chips,Chips & Wafers,1.8,2.0,21.29,22.21,5.96,6.29,2.33 mL CO2/h,Baked low-moisture snack,High,Very High,4.5-12 months,IPB Journal
+Flat Potato Chips,Chips & Wafers,1.3,1.5,32.36,32.36,5.96,5.96,2.33 mL CO2/h,Fried potato snack,High,Very High,4.5-12 months,ScienceDirect
+Ridged Potato Chips,Chips & Wafers,1.3,1.5,30.33,30.33,6.29,6.29,2.33 mL CO2/h,Fried potato snack,High,Very High,4.5-12 months,ScienceDirect
+Marie Biscuits,Biscuits & Cookies,3.2,4.7,9.5,13.5,7.29,7.63,0.0 mL CO2/kg/h,Plain dry biscuit,Moderate,Very High,16.5 months,OUP Academic
+Petit Beurre Biscuits,Biscuits & Cookies,2.8,4.2,13.3,13.3,7.3,7.3,0.0 mL CO2/kg/h,Semi-sweet dry biscuit,High,Very High,16.5 months,OUP Academic
+Digestive Biscuits,Biscuits & Cookies,2.5,4.5,20.3,20.3,7.2,7.2,0.0 mL CO2/kg/h,High-fibre dry biscuit,High,Very High,16.5 months,Not specified in source
+Cream Crackers,Biscuits & Cookies,2.0,4.0,13.3,13.3,7.1,7.1,0.0 mL CO2/kg/h,Savoury dry biscuit,High,Very High,16.5 months,Not specified in source
+Butter Cookies,Biscuits & Cookies,2.0,4.0,24.0,26.0,6.8,7.2,0.0 mL CO2/kg/h,High-fat cookie,Very High,Very High,12 months,Not specified in source
+Wheat Bread,Bread & Bakery Products,33.7,33.7,4.9,4.9,6.0,6.0,0.0 mL CO2/kg/h,High-moisture bakery product,High,High,5-7 days,Not specified in source
+Wholemeal Rye Bread,Bread & Bakery Products,40.8,40.8,5.5,5.5,4.9,4.9,0.0 mL CO2/kg/h,Wholegrain bakery product,High,High,7-14 days,Not specified in source
+Wholemeal Rye + Bran Bread,Bread & Bakery Products,45.2,45.2,5.1,5.1,5.1,5.1,0.0 mL CO2/kg/h,High-moisture wholegrain bread,High,High,7-14 days,Not specified in source
+Refined Rye Bread,Bread & Bakery Products,43.1,43.1,0.7,0.7,4.4,4.4,0.0 mL CO2/kg/h,Rye bakery product,High,High,7-14 days,Not specified in source
+Refined Rye Flat Bread,Bread & Bakery Products,31.5,31.5,0.4,0.4,4.7,4.7,0.0 mL CO2/kg/h,Flat bakery product,High,High,5-10 days,Not specified in source
+Apricot Jam,Jams,15.78,15.78,0.1,0.1,3.29,3.29,0.0 mL CO2/kg/h,High-sugar acidic fruit preserve,Moderate,Moderate,30 days after opening,PubMed Central (PMC)
+Strawberry Jam,Jams,18.00,18.00,0.1,0.1,2.91,2.91,0.0 mL CO2/kg/h,High-sugar acidic fruit preserve,Moderate,Moderate,30 days after opening,PubMed Central (PMC)
+Raspberry Jam,Jams,21.82,21.82,0.1,0.1,2.92,2.92,0.0 mL CO2/kg/h,High-sugar acidic fruit preserve,Moderate,Moderate,30 days after opening,PubMed Central (PMC)
+Sour Cherry Jam,Jams,18.50,18.50,0.1,0.1,3.47,3.47,0.0 mL CO2/kg/h,High-sugar acidic fruit preserve,Moderate,Moderate,30 days after opening,PubMed Central (PMC)
+Tomato Sauce,Sauces,91,91,0.2,0.2,4.0,4.2,0.0 mL CO2/kg/h,High-moisture acidic sauce,High,Low,6-12 months,Not specified in source
+Chilli Sauce,Sauces,80,85,0.5,2,3.0,4.0,0.0 mL CO2/kg/h,Acidic condiment,High,Low,6-12 months,Not specified in source
+Soy Sauce,Sauces,65,70,0.1,0.5,4.5,5.0,0.0 mL CO2/kg/h,Fermented liquid condiment,Moderate,Low,12-24 months,Not specified in source

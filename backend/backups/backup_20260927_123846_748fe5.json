@@ -1,0 +1,333 @@
+{
+  "backup_id": "backup_20260927_123846_748fe5",
+  "timestamp": "2026-09-27T12:38:46.181210+00:00",
+  "version": "1.0.0",
+  "counts": {
+    "foods": 42,
+    "materials": 18,
+    "users": 1,
+    "recommendations": 1
+  },
+  "data": {
+    "foods": [
+      {
+        "id": 1,
+        "name": "Food_1",
+        "category": "General"
+      },
+      {
+        "id": 2,
+        "name": "Food_2",
+        "category": "General"
+      },
+      {
+        "id": 3,
+        "name": "Food_3",
+        "category": "General"
+      },
+      {
+        "id": 4,
+        "name": "Food_4",
+        "category": "General"
+      },
+      {
+        "id": 5,
+        "name": "Food_5",
+        "category": "General"
+      },
+      {
+        "id": 6,
+        "name": "Food_6",
+        "category": "General"
+      },
+      {
+        "id": 7,
+        "name": "Food_7",
+        "category": "General"
+      },
+      {
+        "id": 8,
+        "name": "Food_8",
+        "category": "General"
+      },
+      {
+        "id": 9,
+        "name": "Food_9",
+        "category": "General"
+      },
+      {
+        "id": 10,
+        "name": "Food_10",
+        "category": "General"
+      },
+      {
+        "id": 11,
+        "name": "Food_11",
+        "category": "General"
+      },
+      {
+        "id": 12,
+        "name": "Food_12",
+        "category": "General"
+      },
+      {
+        "id": 13,
+        "name": "Food_13",
+        "category": "General"
+      },
+      {
+        "id": 14,
+        "name": "Food_14",
+        "category": "General"
+      },
+      {
+        "id": 15,
+        "name": "Food_15",
+        "category": "General"
+      },
+      {
+        "id": 16,
+        "name": "Food_16",
+        "category": "General"
+      },
+      {
+        "id": 17,
+        "name": "Food_17",
+        "category": "General"
+      },
+      {
+        "id": 18,
+        "name": "Food_18",
+        "category": "General"
+      },
+      {
+        "id": 19,
+        "name": "Food_19",
+        "category": "General"
+      },
+      {
+        "id": 20,
+        "name": "Food_20",
+        "category": "General"
+      },
+      {
+        "id": 21,
+        "name": "Food_21",
+        "category": "General"
+      },
+      {
+        "id": 22,
+        "name": "Food_22",
+        "category": "General"
+      },
+      {
+        "id": 23,
+        "name": "Food_23",
+        "category": "General"
+      },
+      {
+        "id": 24,
+        "name": "Food_24",
+        "category": "General"
+      },
+      {
+        "id": 25,
+        "name": "Food_25",
+        "category": "General"
+      },
+      {
+        "id": 26,
+        "name": "Food_26",
+        "category": "General"
+      },
+      {
+        "id": 27,
+        "name": "Food_27",
+        "category": "General"
+      },
+      {
+        "id": 28,
+        "name": "Food_28",
+        "category": "General"
+      },
+      {
+        "id": 29,
+        "name": "Food_29",
+        "category": "General"
+      },
+      {
+        "id": 30,
+        "name": "Food_30",
+        "category": "General"
+      },
+      {
+        "id": 31,
+        "name": "Food_31",
+        "category": "General"
+      },
+      {
+        "id": 32,
+        "name": "Food_32",
+        "category": "General"
+      },
+      {
+        "id": 33,
+        "name": "Food_33",
+        "category": "General"
+      },
+      {
+        "id": 34,
+        "name": "Food_34",
+        "category": "General"
+      },
+      {
+        "id": 35,
+        "name": "Food_35",
+        "category": "General"
+      },
+      {
+        "id": 36,
+        "name": "Food_36",
+        "category": "General"
+      },
+      {
+        "id": 37,
+        "name": "Food_37",
+        "category": "General"
+      },
+      {
+        "id": 38,
+        "name": "Food_38",
+        "category": "General"
+      },
+      {
+        "id": 39,
+        "name": "Food_39",
+        "category": "General"
+      },
+      {
+        "id": 40,
+        "name": "Food_40",
+        "category": "General"
+      },
+      {
+        "id": 41,
+        "name": "Food_41",
+        "category": "General"
+      },
+      {
+        "id": 42,
+        "name": "Food_42",
+        "category": "General"
+      }
+    ],
+    "materials": [
+      {
+        "id": 1,
+        "name": "Material_1",
+        "category": "Barrier"
+      },
+      {
+        "id": 2,
+        "name": "Material_2",
+        "category": "Barrier"
+      },
+      {
+        "id": 3,
+        "name": "Material_3",
+        "category": "Barrier"
+      },
+      {
+        "id": 4,
+        "name": "Material_4",
+        "category": "Barrier"
+      },
+      {
+        "id": 5,
+        "name": "Material_5",
+        "category": "Barrier"
+      },
+      {
+        "id": 6,
+        "name": "Material_6",
+        "category": "Barrier"
+      },
+      {
+        "id": 7,
+        "name": "Material_7",
+        "category": "Barrier"
+      },
+      {
+        "id": 8,
+        "name": "Material_8",
+        "category": "Barrier"
+      },
+      {
+        "id": 9,
+        "name": "Material_9",
+        "category": "Barrier"
+      },
+      {
+        "id": 10,
+        "name": "Material_10",
+        "category": "Barrier"
+      },
+      {
+        "id": 11,
+        "name": "Material_11",
+        "category": "Barrier"
+      },
+      {
+        "id": 12,
+        "name": "Material_12",
+        "category": "Barrier"
+      },
+      {
+        "id": 13,
+        "name": "Material_13",
+        "category": "Barrier"
+      },
+      {
+        "id": 14,
+        "name": "Material_14",
+        "category": "Barrier"
+      },
+      {
+        "id": 15,
+        "name": "Material_15",
+        "category": "Barrier"
+      },
+      {
+        "id": 16,
+        "name": "Material_16",
+        "category": "Barrier"
+      },
+      {
+        "id": 17,
+        "name": "Material_17",
+        "category": "Barrier"
+      },
+      {
+        "id": 18,
+        "name": "Material_18",
+        "category": "Barrier"
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "email": "admin@packaging.com",
+        "role": "admin",
+        "is_admin": true
+      }
+    ],
+    "recommendations": [
+      {
+        "id": 1,
+        "food_name": "Alphonso Mango",
+        "primary_material": "BREATHABLE_BIO_EMAP"
+      }
+    ]
+  },
+  "checksum_sha256": "b18681fbd5441f75795051dc655e7c51d3ed957744755998a58742a906234f58"
+}

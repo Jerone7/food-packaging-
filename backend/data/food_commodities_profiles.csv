@@ -1,0 +1,47 @@
+Commodity_Name,Food_Category,Moisture_Content_Percent,Fat_Oil_Content_Percent,pH,Respiration_Rate,Oxygen_Sensitivity,Moisture_Sensitivity,Shelf_Life_Requirement_Months,Notes_Source
+Potato chips (fried),Snacks (chips/wafers),2.0,33.0,5.8,N/A - non-respiring processed food,High,High,6,"USDA FDC + industry standard; high fat drives rancidity risk, low moisture makes it highly hygroscopic"
+Banana chips (fried),Snacks (chips/wafers),3.5,28.0,5.5,N/A - non-respiring processed food,High,High,4,Typical Indian snack food industry data
+Corn/tapioca chips (extruded),Snacks (chips/wafers),3.0,18.0,6.0,N/A - non-respiring processed food,Medium,High,6,USDA FDC
+Namkeen/savory mixture (fried),Snacks,3.0,25.0,5.5,N/A - non-respiring processed food,High,High,3,"Industry shelf-life data, Indian snack sector"
+Sweet biscuits,Biscuits and cookies,3.0,18.0,6.5,N/A - non-respiring processed food,Medium,High,6,USDA FDC + FAO food composition tables
+Cream-filled biscuits,Biscuits and cookies,4.0,22.0,6.3,N/A - non-respiring processed food,High,High,6,Higher fat filling increases oxidative risk
+Cookies (butter/shortbread),Biscuits and cookies,3.5,24.0,6.4,N/A - non-respiring processed food,High,High,6,USDA FDC
+Digestive/whole wheat biscuits,Biscuits and cookies,3.0,15.0,6.2,N/A - non-respiring processed food,Medium,High,6,USDA FDC
+White bread,Bread and bakery products,35.0,3.0,5.3,N/A - non-respiring processed food,Low,High,0.2,"USDA FDC; short shelf life ~5-7 days, moisture loss and mold are main risks"
+Whole wheat bread,Bread and bakery products,38.0,3.5,5.4,N/A - non-respiring processed food,Low,High,0.2,USDA FDC
+Sponge cake,Bread and bakery products,25.0,15.0,6.8,N/A - non-respiring processed food,Medium,High,1,Published bakery shelf-life studies
+Mango pickle (oil-based),"Pickles, jams and sauces",55.0,12.0,3.8,N/A - non-respiring processed food,Medium,Medium,12,"FAO food composition data + Indian pickle industry norms; low pH gives strong microbial stability"
+Mixed vegetable pickle,"Pickles, jams and sauces",60.0,10.0,3.6,N/A - non-respiring processed food,Medium,Medium,12,"Industry data; acidic pH is primary preservation factor"
+Mango jam,"Pickles, jams and sauces",30.0,0.2,3.4,N/A - non-respiring processed food,Low,Medium,12,"USDA FDC; high sugar + low pH controls spoilage"
+Mixed fruit jam,"Pickles, jams and sauces",28.0,0.2,3.3,N/A - non-respiring processed food,Low,Medium,12,USDA FDC
+Tomato ketchup/sauce,"Pickles, jams and sauces",68.0,0.3,3.9,N/A - non-respiring processed food,Low,Low,12,USDA FDC
+Chili sauce,"Pickles, jams and sauces",70.0,0.5,3.7,N/A - non-respiring processed food,Low,Low,9,USDA FDC
+Red chili powder,Spice powders,9.0,10.0,5.5,N/A - non-respiring processed food,High,High,12,"FAO/USDA spice composition data; oleoresin content drives oxygen sensitivity, fine powder is very hygroscopic"
+Turmeric powder,Spice powders,8.5,5.0,6.0,N/A - non-respiring processed food,Medium,High,12,FAO spice composition data
+Garam masala (mixed spice),Spice powders,7.0,8.0,5.8,N/A - non-respiring processed food,High,High,9,Industry technical data for blended spice powders
+Cumin powder,Spice powders,8.0,15.0,5.9,N/A - non-respiring processed food,High,High,9,"FAO spice composition data; essential oil content raises oxidative risk"
+Coriander powder,Spice powders,9.0,12.0,6.0,N/A - non-respiring processed food,Medium,High,9,FAO spice composition data
+Instant noodles seasoning/mix,Instant food mixes,5.0,15.0,6.0,N/A - non-respiring processed food,High,High,8,USDA FDC + industry data
+Instant soup mix (powder),Instant food mixes,4.0,8.0,6.2,N/A - non-respiring processed food,Medium,High,12,Industry technical data
+Ready-to-cook curry mix (dry),Instant food mixes,6.0,10.0,6.1,N/A - non-respiring processed food,Medium,High,9,Industry technical data
+Dosa/idli batter mix (dry),Instant food mixes,7.0,2.0,6.3,N/A - non-respiring processed food,Low,High,6,Industry technical data
+Pasteurized whole milk,Dairy products,87.5,3.5,6.6,N/A - non-respiring processed food,Low,Low,0.25,"USDA FDC; refrigerated, short shelf life"
+Cheddar cheese,Dairy products,37.0,33.0,5.4,N/A - non-respiring processed food,High,Medium,3,USDA FDC; high fat drives strong oxidative sensitivity
+Butter,Dairy products,16.0,81.0,6.3,N/A - non-respiring processed food,High,Low,6,"USDA FDC; very high fat, oxygen exclusion critical"
+Plain yogurt/curd,Dairy products,85.0,3.5,4.4,N/A - non-respiring processed food,Low,Low,0.5,USDA FDC
+Paneer (fresh cheese),Dairy products,55.0,20.0,5.6,N/A - non-respiring processed food,Medium,Medium,0.25,FAO/Indian dairy composition data
+Frozen green peas,Frozen foods,78.0,0.4,6.5,"Low (residual, near-zero at frozen temp)",Low,Low,12,"USDA FDC; respiration effectively halted below -18C"
+Frozen paratha (flatbread),Frozen foods,42.0,10.0,6.0,N/A - non-respiring processed food,Medium,Medium,6,Industry technical data
+Frozen chicken nuggets,Frozen foods,55.0,15.0,6.2,N/A - non-respiring processed food,Medium,Medium,9,USDA FDC
+Ready-to-eat curry (retort pouch),Ready-to-eat foods,75.0,8.0,5.5,"N/A - non-respiring, thermally sterilized",Low,Low,12,"Retort processing gives commercial sterility; barrier packaging mainly for light/physical protection"
+Ready-to-eat rice meal (retort),Ready-to-eat foods,70.0,3.0,6.0,"N/A - non-respiring, thermally sterilized",Low,Low,12,Industry retort food technical data
+Ragi (finger millet) flour,Millet-based products,11.0,1.5,6.2,N/A - non-respiring processed food,Medium,High,6,"FAO/ICAR millet composition data; fat oxidation and moisture pickup limit shelf life"
+Millet cookies,Millet-based products,4.0,16.0,6.3,N/A - non-respiring processed food,High,High,4,Published millet food-product shelf-life studies
+Milk-based sweet (barfi type),Sweets,15.0,20.0,6.0,N/A - non-respiring processed food,High,Medium,0.5,"Indian sweets industry data; high fat + moisture, short shelf life without preservatives"
+Ladoo (besan/gram flour based),Sweets,8.0,22.0,6.1,N/A - non-respiring processed food,High,Medium,0.5,Indian sweets industry data
+"Almonds (raw, shelled)",Dry fruits and nuts,4.5,50.0,6.0,"N/A - non-respiring, dormant seed",High,Medium,12,USDA FDC; high fat content is the dominant oxidative shelf-life driver
+Cashew nuts (raw),Dry fruits and nuts,5.0,44.0,6.1,"N/A - non-respiring, dormant seed",High,Medium,9,USDA FDC
+Raisins,Dry fruits and nuts,15.0,0.5,3.8,"N/A - non-respiring, dried fruit",Low,High,12,USDA FDC; low pH but high sugar/hygroscopic moisture pickup risk
+Roasted peanuts,Dry fruits and nuts,2.0,49.0,6.5,N/A - non-respiring processed food,High,Medium,6,USDA FDC
+Wheat flour (refined),Ready-to-cook mixes,12.0,1.5,6.0,N/A - non-respiring processed food,Low,High,6,USDA FDC
+Besan (gram flour),Ready-to-cook mixes,10.0,5.5,6.4,N/A - non-respiring processed food,Medium,High,6,FAO/USDA legume flour composition data
